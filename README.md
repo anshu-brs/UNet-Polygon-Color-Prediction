@@ -1,4 +1,4 @@
-# Ayna ML Assignment: UNet Polygon Color Prediction
+UNet Polygon Color Prediction
 
 This repository contains a UNet model implementation for predicting colored polygon images, developed as part of the Ayna ML assignment. The project uses Google Colab for training and inference, with Weights & Biases (wandb) for tracking.
 
@@ -23,6 +23,4 @@ This repository contains a UNet model implementation for predicting colored poly
 ## Tracking
 - wandb Project: [https://wandb.ai/anshu-namana-mahindra-university/ayna_ml_assignment](https://wandb.ai/anshu-namana-mahindra-university/ayna_ml_assignment)
 
-## Acknowledgments
-- xAI and Ayna ML for the assignment framework.
-- wandb for experiment tracking.
+
